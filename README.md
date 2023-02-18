@@ -2,7 +2,7 @@ I use notebooks and no hard repository structure for simplicity here
 
 **Data**
 
-A dataset has been shared with you; this includes booking transactions from 2 different hotels located in 2 different locations
+data includes booking transactions from 2 different hotels located in 2 different locations
 
 **Goal**
 
